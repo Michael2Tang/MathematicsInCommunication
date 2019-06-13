@@ -1,2 +1,2 @@
 # MathematicsInCommunication
-mathematics in wireless communication 
+mathematics in wireless communication, including detail deduction MMSE/whitening/wiener filtering/ML/Least Square/Cholesky Decomposition/SVD/QRD/SampleRateConverting/...
